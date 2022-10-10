@@ -7,7 +7,7 @@ I'm **ワロフズ、(Doyalin) **
 
 -   :hammer_and_pick: PHP / JavaScript / GO / Python / Docker
 -   :pencil2: Docker on [ [DietPi](https://dietpi.com/) / [RedHat](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) ]
--   :yen: BotTrader at Binance.
+-   :yen: on Stargate.
 -   :wrench: CPU Miner (XMR)
 -   :wrench: STORJ Node
 
