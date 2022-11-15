@@ -1,7 +1,7 @@
 ## Hey, ワロフズ、(Doyalin) here!
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=walofz&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=walofz&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=walofz&theme=dark&show_icons=true">](https://metrics.lecoq.io/walofz#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=walofz&show_icons=true">](https://metrics.lecoq.io/walofz#gh-light-mode-only)
 
 **Lazy Developer.**
 
