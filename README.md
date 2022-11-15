@@ -7,8 +7,6 @@
 
 -   :hammer_and_pick: PHP / JavaScript / GO / Python / Docker
 -   :pencil2: Docker on [ [DietPi](https://dietpi.com/) / [RedHat](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) ]
--   :wrench: CPU Miner (XMR)
--   :wrench: STORJ Node
 
 ![PHP](https://img.shields.io/badge/PHP-7.4-white?style=for-the-badge&logo=php)
 ![Go](https://img.shields.io/badge/GO-1.19-white?style=for-the-badge&logo=golang)
