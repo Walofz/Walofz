@@ -10,6 +10,9 @@
 
 ![Static Badge](https://img.shields.io/badge/myst-token?style=for-the-badge&color=gray)
 ![Static Badge](https://img.shields.io/badge/storj-token?style=for-the-badge&color=gray)
+
+**Baker.**
+
 ![Static Badge](https://img.shields.io/badge/xtz-token?style=for-the-badge&color=gray)
 
 ---
