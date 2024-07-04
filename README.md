@@ -5,10 +5,10 @@
 
 **Lazy Developer.**
 
--   :hammer_and_pick: PHP / JavaScript / GO / Python / Docker
--   :pencil2: Docker on [ [DietPi](https://dietpi.com/) / [RedHat](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) ]
+-   :hammer_and_pick: PHP / JavaScript / GO / Docker
+-   :pencil2: Work on [Debian](https://www.debian.org), [Zorin OS](https://zorin.com/os)
 
-![PHP](https://img.shields.io/badge/PHP-7.4-white?style=for-the-badge&logo=php)
-![Go](https://img.shields.io/badge/GO-1.19-white?style=for-the-badge&logo=golang)
+![PHP](https://img.shields.io/badge/PHP-8.2-white?style=for-the-badge&logo=php)
+![Go](https://img.shields.io/badge/GO-1.21-white?style=for-the-badge&logo=golang)
 ![Python](https://img.shields.io/badge/Python-3.10-white?style=for-the-badge&logo=python)
 ---
