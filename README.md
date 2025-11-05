@@ -7,4 +7,4 @@
 * **Homelab & DevOps:** Proxmox VE, Docker, TrueNAS, OMV, AdGuard Home
 * **Crypto:** Trading bots (Python) for Bitkub (ETH/THB Rebalancing)
 * **Privacy & Networking:** VPNs, SOCKS Proxy, Tor & Snowflake Proxy
-* **Other:** Some folk projects
+* **Other:** Some fork projects
