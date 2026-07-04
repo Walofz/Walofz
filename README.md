@@ -1,7 +1,7 @@
 ## Hey, ワロフズ (Doyalin) here!
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walofz&layout=compact" width="40%" align="right" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Walofz&layout=compact&langs_count=4&theme=vue-dark" width="40%" align="right" />
   
   <i>Lazy Developer</i> 🥱
 </p>
