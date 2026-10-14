@@ -7,7 +7,7 @@
 </p>
 
 ### 🛠️ Development Style
-* **AI Whisperer:** Beat up and manipulate AI (Qwen, Copilot, Gemini) to make it create the app I want. 🤖🥊
+* ขี้เกียจแล้วอ่ะไม่ต้อง issue เชิญ fork ไปแก้ต่อได้เลย
 
 ### 🎮 Gaming Platforms
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
